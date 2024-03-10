@@ -1,6 +1,3 @@
-create venv : python -m venv menv
-activate venv: source menv/bin/activate
-
 # CinemaWatch - Django REST API Backend Project
 
 CinemaWatch is a Django REST API backend project designed to serve as a clone of IMDb, focusing on movie and TV show information. This README provides an overview of the project structure, setup instructions, and usage guidelines.
