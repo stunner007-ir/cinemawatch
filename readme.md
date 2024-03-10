@@ -94,5 +94,11 @@ CinemaWatch is a Django REST API backend project designed to serve as a clone of
 - `watch/`: Include additional APIs related to the watchlist app.
 - `account/`: Include additional APIs related to the user app.
 
+### Contributors
+
+- Backend - [Ishu Raj](https://github.com/stunner007-ir)
+<!-- - [Contributor Name](https://github.com/contributor-username) -->
+
 ### License
-- This project is licensed under the MIT License.
+
+This project is licensed under the [MIT License](LICENSE). 
